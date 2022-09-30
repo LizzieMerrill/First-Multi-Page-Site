@@ -1,0 +1,97 @@
+li{
+    display: inline;
+    padding: 0px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 0px;
+    vertical-align: middle;
+}
+#logo-list-item{
+    float: left;
+    padding: 5px;
+    position: relative;
+}
+.container-fluid{
+    height: 30px;
+    float: left;
+}
+header{
+    background-color: black;
+    margin-top: 0px;
+}
+footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+}
+#search-icon{
+    height: 30px;
+    width: 30px;
+    background-size: 100%;
+    float: right;
+    object-fit: contain;
+}
+#cart-pic{
+    height:20px;
+    width: 200px;
+    float: right;
+    color: white;
+    padding: 0px;
+    background-color: white;
+}
+#logo-button{
+    background-color: red;
+    line-height: 30px;
+
+}
+#navigation{
+    white-space: nowrap;
+}
+#search-addon{
+    background-color: transparent;
+    padding: 0;
+    border-spacing: 0;
+    height: 25px;
+    margin: 0;
+    margin-top: 0px;
+    padding-left: 0px;
+}
+#logo-box{
+    background-color: red;
+    height: 100%;
+    padding: 0;
+}
+#false-sign-in{
+    color: rgb(170, 169, 169);
+}
+.nav-item{
+    padding-inline: 15px;
+    display: inline;
+}
+ol li{
+    color: black;
+    font-family: 'Indie Flower', papyrus;
+}
+#ordered-list-container{
+    border-color: black;
+    border-width: 5px;
+}       
+#Hello{
+    text-shadow: 2px 2px 5px turquoise;
+    font-family: 'Indie Flower', papyrus;
+}
+#santaNum{
+    text-shadow: 2px 2px 55px red;
+    font-family: 'Space Mono', monospace;
+    font-size: 50px;
+}
+#list-head{
+    font-family: 'Indie Flower', papyrus;
+}
+#list-foot{
+    font-family: 'Indie Flower', papyrus;
+}
